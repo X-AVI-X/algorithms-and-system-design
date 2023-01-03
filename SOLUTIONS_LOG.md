@@ -5,3 +5,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | Date | Domain / Category | Architectural Focus & Key Findings |
 | :--- | :--- | :--- |
 | 2023-01-02 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
+| 2023-01-03 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
