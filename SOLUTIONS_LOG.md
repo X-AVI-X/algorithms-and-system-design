@@ -6,3 +6,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | :--- | :--- | :--- |
 | 2023-01-02 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
 | 2023-01-03 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
+| 2023-01-04 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
