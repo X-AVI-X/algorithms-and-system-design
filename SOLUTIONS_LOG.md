@@ -9,3 +9,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-04 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-01-05 | **DevOps & Database** | Implemented idempotent declarative migrations for CD deployment pipelines. |
 | 2023-01-06 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
+| 2023-01-06 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
