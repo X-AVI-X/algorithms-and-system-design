@@ -11,3 +11,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-06 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
 | 2023-01-06 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
 | 2023-01-06 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
+| 2023-01-07 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
