@@ -14,3 +14,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-07 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
 | 2023-01-11 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-01-11 | **Tries** | Engineered prefix tree node mapping with character array indices. |
+| 2023-01-12 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
