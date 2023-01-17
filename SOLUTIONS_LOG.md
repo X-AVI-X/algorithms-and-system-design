@@ -15,3 +15,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-11 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-01-11 | **Tries** | Engineered prefix tree node mapping with character array indices. |
 | 2023-01-12 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
+| 2023-01-17 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
