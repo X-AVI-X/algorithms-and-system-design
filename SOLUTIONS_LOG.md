@@ -17,3 +17,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-12 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-01-17 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
 | 2023-01-17 | **Binary Search** | Determined sorted half to guide logarithmic division. |
+| 2023-01-18 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
