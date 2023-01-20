@@ -18,3 +18,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-17 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
 | 2023-01-17 | **Binary Search** | Determined sorted half to guide logarithmic division. |
 | 2023-01-18 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
+| 2023-01-20 | **Dynamic Programming** | Structured 2D DP matrix caching substring boolean validity. |
