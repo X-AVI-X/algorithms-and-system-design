@@ -21,3 +21,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-20 | **Dynamic Programming** | Structured 2D DP matrix caching substring boolean validity. |
 | 2023-01-20 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-01-20 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
+| 2023-01-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
