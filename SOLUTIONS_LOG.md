@@ -23,3 +23,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-20 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
 | 2023-01-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-01-23 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-01-23 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
