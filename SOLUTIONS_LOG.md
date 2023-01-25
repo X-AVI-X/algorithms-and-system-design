@@ -24,3 +24,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-01-23 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-01-23 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-01-25 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
