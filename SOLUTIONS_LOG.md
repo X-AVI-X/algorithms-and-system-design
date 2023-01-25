@@ -26,3 +26,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-23 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-01-25 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
 | 2023-01-25 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
+| 2023-01-25 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
