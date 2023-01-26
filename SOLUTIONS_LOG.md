@@ -28,3 +28,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-25 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-01-25 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
 | 2023-01-26 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
+| 2023-01-26 | **Binary Search** | Implemented boundary check handling for integer overflow. |
