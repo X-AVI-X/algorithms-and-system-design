@@ -30,3 +30,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-26 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-01-26 | **Binary Search** | Implemented boundary check handling for integer overflow. |
 | 2023-01-26 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
+| 2023-01-27 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
