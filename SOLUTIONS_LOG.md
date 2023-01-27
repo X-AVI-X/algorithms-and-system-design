@@ -32,3 +32,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-26 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
 | 2023-01-27 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
 | 2023-01-27 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
+| 2023-01-27 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
