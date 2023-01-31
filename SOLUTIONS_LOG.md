@@ -34,3 +34,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-27 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
 | 2023-01-27 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-01-30 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
+| 2023-01-31 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
