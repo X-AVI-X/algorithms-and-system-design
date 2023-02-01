@@ -35,3 +35,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-01-27 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-01-30 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
 | 2023-01-31 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-02-01 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
