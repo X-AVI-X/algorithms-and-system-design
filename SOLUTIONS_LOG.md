@@ -42,3 +42,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-06 | **Data Structures** | Maintained head and tail modulo pointers for ring storage. |
 | 2023-02-06 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
 | 2023-02-06 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
+| 2023-02-07 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
