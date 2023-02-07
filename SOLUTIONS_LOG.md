@@ -44,3 +44,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-06 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
 | 2023-02-07 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
 | 2023-02-07 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
+| 2023-02-07 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
