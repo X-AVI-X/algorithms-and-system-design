@@ -45,3 +45,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-07 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
 | 2023-02-07 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-02-07 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-02-08 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
