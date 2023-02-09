@@ -48,3 +48,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-08 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
 | 2023-02-08 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
 | 2023-02-08 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
+| 2023-02-09 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
