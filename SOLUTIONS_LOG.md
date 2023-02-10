@@ -50,3 +50,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-08 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
 | 2023-02-09 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-02-10 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
+| 2023-02-10 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
