@@ -61,3 +61,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-16 | **Binary Search** | Determined sorted half to guide logarithmic division. |
 | 2023-02-17 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
 | 2023-02-17 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
+| 2023-02-18 | **Dynamic Programming** | Structured 2D DP matrix caching substring boolean validity. |
