@@ -66,3 +66,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-20 | **Graphs** | Modeled prerequisite constraints as directed dependency graph. |
 | 2023-02-20 | **Tries** | Engineered prefix tree node mapping with character array indices. |
 | 2023-02-21 | **Sliding Window** | Tracked character frequencies and count of matched distinct elements. |
+| 2023-02-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
