@@ -69,3 +69,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-02-24 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-02-24 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
+| 2023-02-24 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
