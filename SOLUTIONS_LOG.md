@@ -71,3 +71,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-24 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
 | 2023-02-24 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
 | 2023-02-25 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
+| 2023-03-01 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
