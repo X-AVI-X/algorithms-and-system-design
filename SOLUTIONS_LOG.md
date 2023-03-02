@@ -73,3 +73,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-02-25 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
 | 2023-03-01 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-03-02 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
+| 2023-03-02 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
