@@ -75,3 +75,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-02 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-03-02 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
 | 2023-03-02 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-03-03 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
