@@ -77,3 +77,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-02 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-03-03 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
 | 2023-03-05 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-03-06 | **Trees** | Tree structure enabling O(log N) updates and range aggregations. |
