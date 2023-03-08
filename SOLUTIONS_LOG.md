@@ -80,3 +80,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-06 | **Trees** | Tree structure enabling O(log N) updates and range aggregations. |
 | 2023-03-06 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
 | 2023-03-08 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
+| 2023-03-08 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
