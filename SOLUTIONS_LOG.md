@@ -84,3 +84,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-09 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-03-09 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
 | 2023-03-09 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
+| 2023-03-11 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
