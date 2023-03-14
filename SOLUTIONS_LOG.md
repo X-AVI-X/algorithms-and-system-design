@@ -87,3 +87,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-11 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
 | 2023-03-14 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
 | 2023-03-14 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
+| 2023-03-14 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
