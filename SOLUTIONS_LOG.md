@@ -91,3 +91,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-16 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
 | 2023-03-16 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-03-16 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
+| 2023-03-17 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
