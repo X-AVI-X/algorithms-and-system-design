@@ -93,3 +93,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-16 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
 | 2023-03-17 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-03-17 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
+| 2023-03-20 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
