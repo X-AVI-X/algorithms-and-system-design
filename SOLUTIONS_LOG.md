@@ -95,3 +95,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-17 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
 | 2023-03-20 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
 | 2023-03-20 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-03-21 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
