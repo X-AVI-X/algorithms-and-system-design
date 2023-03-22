@@ -99,3 +99,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-21 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-03-22 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
 | 2023-03-22 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-03-22 | **Data Structures** | Maintained head and tail modulo pointers for ring storage. |
