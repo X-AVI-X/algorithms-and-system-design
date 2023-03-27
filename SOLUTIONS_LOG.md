@@ -102,3 +102,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-22 | **Data Structures** | Maintained head and tail modulo pointers for ring storage. |
 | 2023-03-23 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-03-24 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
+| 2023-03-27 | **System Design** | Evaluated range-based, hash-based, and directory-based sharding schemes. |
