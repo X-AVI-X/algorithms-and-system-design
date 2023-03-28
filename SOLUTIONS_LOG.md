@@ -104,3 +104,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-24 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
 | 2023-03-27 | **System Design** | Evaluated range-based, hash-based, and directory-based sharding schemes. |
 | 2023-03-27 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
+| 2023-03-28 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
