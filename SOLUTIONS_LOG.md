@@ -106,3 +106,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-27 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
 | 2023-03-28 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-03-28 | **Database Design** | Balanced 3NF write integrity against denormalized read-heavy analytical dashboards. |
+| 2023-03-30 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
