@@ -109,3 +109,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-03-30 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
 | 2023-03-30 | **Binary Search** | Determined sorted half to guide logarithmic division. |
 | 2023-03-31 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
+| 2023-03-31 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
