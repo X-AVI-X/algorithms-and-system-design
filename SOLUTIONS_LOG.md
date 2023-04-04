@@ -113,3 +113,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-04-03 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
 | 2023-04-04 | **Sliding Window** | Tracked character frequencies and count of matched distinct elements. |
 | 2023-04-04 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-04-04 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
