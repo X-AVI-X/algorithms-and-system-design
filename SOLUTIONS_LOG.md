@@ -117,3 +117,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-04-06 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
 | 2023-04-06 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-04-06 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
+| 2023-04-10 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
