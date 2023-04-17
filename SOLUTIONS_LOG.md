@@ -120,3 +120,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-04-10 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-04-10 | **Sliding Window** | Tracked character frequencies and count of matched distinct elements. |
 | 2023-04-10 | **Trees** | Tree structure enabling O(log N) updates and range aggregations. |
+| 2023-04-17 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
