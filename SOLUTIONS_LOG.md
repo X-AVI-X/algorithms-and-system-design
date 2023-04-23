@@ -124,3 +124,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-04-17 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
 | 2023-04-18 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-04-19 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
+| 2023-04-23 | **API Architecture** | Implemented token replenishment rate vs memory efficiency analysis. |
