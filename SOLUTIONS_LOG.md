@@ -134,3 +134,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-04-28 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-04-28 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
 | 2023-05-02 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
+| 2023-05-02 | **Tries** | Engineered prefix tree node mapping with character array indices. |
