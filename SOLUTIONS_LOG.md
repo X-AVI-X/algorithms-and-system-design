@@ -143,3 +143,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-08 | **System Design** | Evaluated range-based, hash-based, and directory-based sharding schemes. |
 | 2023-05-09 | **Sliding Window** | Tracked character frequencies and count of matched distinct elements. |
 | 2023-05-09 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
+| 2023-05-09 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
