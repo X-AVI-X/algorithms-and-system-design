@@ -145,3 +145,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-09 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-05-09 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
 | 2023-05-11 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
+| 2023-05-12 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
