@@ -153,3 +153,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-16 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-05-17 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
 | 2023-05-17 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
+| 2023-05-17 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
