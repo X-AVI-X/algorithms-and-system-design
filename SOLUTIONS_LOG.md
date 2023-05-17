@@ -151,3 +151,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-13 | **Caching** | Pre-populated frequently accessed catalog records into Redis during bootstrap. |
 | 2023-05-16 | **Clean Architecture** | Eliminated boilerplate model converters using zero-runtime-overhead MapStruct. |
 | 2023-05-16 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
+| 2023-05-17 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
