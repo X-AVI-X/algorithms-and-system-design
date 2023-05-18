@@ -156,3 +156,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-17 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-05-18 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
 | 2023-05-18 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
+| 2023-05-18 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
