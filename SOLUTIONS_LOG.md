@@ -154,3 +154,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-17 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
 | 2023-05-17 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
 | 2023-05-17 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-05-18 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
