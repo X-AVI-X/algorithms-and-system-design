@@ -158,3 +158,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-18 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
 | 2023-05-18 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
 | 2023-05-19 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
+| 2023-05-19 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
