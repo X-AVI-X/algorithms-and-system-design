@@ -161,3 +161,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-19 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
 | 2023-05-19 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
 | 2023-05-22 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
+| 2023-05-22 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
