@@ -165,3 +165,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-23 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-05-24 | **Caching** | Pre-populated frequently accessed catalog records into Redis during bootstrap. |
 | 2023-05-24 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
+| 2023-05-24 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
