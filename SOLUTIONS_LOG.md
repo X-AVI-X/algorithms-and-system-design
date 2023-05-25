@@ -167,3 +167,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-24 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-05-24 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
 | 2023-05-25 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
+| 2023-05-25 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
