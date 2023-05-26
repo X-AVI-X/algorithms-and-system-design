@@ -169,3 +169,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-25 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
 | 2023-05-25 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-05-26 | **Binary Search** | Implemented boundary check handling for integer overflow. |
+| 2023-05-26 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
