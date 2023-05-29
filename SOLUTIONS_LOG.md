@@ -173,3 +173,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-26 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
 | 2023-05-27 | **Caching** | Pre-populated frequently accessed catalog records into Redis during bootstrap. |
 | 2023-05-28 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
+| 2023-05-29 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
