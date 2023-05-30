@@ -177,3 +177,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-29 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
 | 2023-05-29 | **DevOps & Database** | Implemented idempotent declarative migrations for CD deployment pipelines. |
 | 2023-05-30 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
+| 2023-05-30 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
