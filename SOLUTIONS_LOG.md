@@ -176,3 +176,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-29 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-05-29 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
 | 2023-05-29 | **DevOps & Database** | Implemented idempotent declarative migrations for CD deployment pipelines. |
+| 2023-05-30 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
