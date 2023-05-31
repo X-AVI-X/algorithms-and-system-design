@@ -181,3 +181,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-30 | **Dynamic Programming** | Structured 2D DP matrix caching substring boolean validity. |
 | 2023-05-31 | **Dynamic Programming** | Tabulation approach calculating minimum coin combinations. |
 | 2023-05-31 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
+| 2023-05-31 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
