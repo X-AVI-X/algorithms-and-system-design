@@ -183,3 +183,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-05-31 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
 | 2023-05-31 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
 | 2023-06-01 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
+| 2023-06-01 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
