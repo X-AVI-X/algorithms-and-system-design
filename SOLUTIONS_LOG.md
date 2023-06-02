@@ -185,3 +185,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-01 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-06-01 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-06-02 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
+| 2023-06-02 | **Data Structures** | Maintained head and tail modulo pointers for ring storage. |
