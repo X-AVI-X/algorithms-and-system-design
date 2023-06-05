@@ -187,3 +187,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-02 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-06-02 | **Data Structures** | Maintained head and tail modulo pointers for ring storage. |
 | 2023-06-05 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
+| 2023-06-05 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
