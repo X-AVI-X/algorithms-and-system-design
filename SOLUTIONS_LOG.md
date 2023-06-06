@@ -189,3 +189,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-05 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
 | 2023-06-05 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-06-06 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
+| 2023-06-06 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
