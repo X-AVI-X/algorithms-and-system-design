@@ -191,3 +191,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-06 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
 | 2023-06-06 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
 | 2023-06-07 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
+| 2023-06-07 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
