@@ -193,3 +193,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-07 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
 | 2023-06-07 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
 | 2023-06-07 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
+| 2023-06-08 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
