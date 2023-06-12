@@ -196,3 +196,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-08 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-06-10 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
 | 2023-06-12 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
+| 2023-06-12 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
