@@ -198,3 +198,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-12 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
 | 2023-06-12 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
 | 2023-06-13 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
+| 2023-06-13 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
