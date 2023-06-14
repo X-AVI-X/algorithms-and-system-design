@@ -200,3 +200,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-13 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
 | 2023-06-13 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
 | 2023-06-14 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
+| 2023-06-14 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
