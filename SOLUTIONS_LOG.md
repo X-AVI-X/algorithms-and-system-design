@@ -203,3 +203,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-14 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
 | 2023-06-15 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-06-15 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
+| 2023-06-15 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
