@@ -205,3 +205,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-15 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
 | 2023-06-15 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-06-18 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
+| 2023-06-19 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
