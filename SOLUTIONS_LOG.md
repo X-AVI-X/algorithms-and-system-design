@@ -207,3 +207,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-06-18 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
 | 2023-06-19 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
 | 2023-06-19 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
+| 2023-06-20 | **Database Tuning** | Set leakDetectionThreshold to 2000ms to identify unclosed connections under load. |
