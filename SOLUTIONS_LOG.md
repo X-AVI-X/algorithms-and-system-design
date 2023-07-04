@@ -218,3 +218,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-01 | **API Architecture** | Implemented token replenishment rate vs memory efficiency analysis. |
 | 2023-07-04 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
 | 2023-07-04 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
+| 2023-07-04 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
