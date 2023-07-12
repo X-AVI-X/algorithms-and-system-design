@@ -222,3 +222,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-07 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
 | 2023-07-07 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
 | 2023-07-07 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
+| 2023-07-12 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
