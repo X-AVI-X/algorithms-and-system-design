@@ -224,3 +224,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-07 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
 | 2023-07-12 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
 | 2023-07-12 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
+| 2023-07-13 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
