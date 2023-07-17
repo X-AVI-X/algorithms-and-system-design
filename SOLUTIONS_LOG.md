@@ -226,3 +226,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-12 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-07-13 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-07-17 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
+| 2023-07-17 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
