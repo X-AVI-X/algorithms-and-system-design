@@ -227,3 +227,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-13 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-07-17 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
 | 2023-07-17 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
+| 2023-07-17 | **Dynamic Programming** | Structured 2D DP matrix caching substring boolean validity. |
