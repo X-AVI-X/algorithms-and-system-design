@@ -234,3 +234,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-20 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
 | 2023-07-20 | **Binary Search** | Implemented boundary check handling for integer overflow. |
 | 2023-07-20 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
+| 2023-07-23 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
