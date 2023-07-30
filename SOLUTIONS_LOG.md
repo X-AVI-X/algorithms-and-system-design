@@ -239,3 +239,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-24 | **Caching** | Pre-populated frequently accessed catalog records into Redis during bootstrap. |
 | 2023-07-25 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
 | 2023-07-25 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
+| 2023-07-30 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
