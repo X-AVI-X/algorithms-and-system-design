@@ -241,3 +241,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-25 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
 | 2023-07-30 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-08-01 | **Graph Algorithms** | Iterative dynamic programming over intermediate vertices. |
+| 2023-08-01 | **Trees** | Recursive branch traversal finding meeting ancestor nodes. |
