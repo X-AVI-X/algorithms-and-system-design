@@ -240,3 +240,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-07-25 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
 | 2023-07-25 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
 | 2023-07-30 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
+| 2023-08-01 | **Graph Algorithms** | Iterative dynamic programming over intermediate vertices. |
