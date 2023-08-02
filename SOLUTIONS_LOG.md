@@ -244,3 +244,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-01 | **Trees** | Recursive branch traversal finding meeting ancestor nodes. |
 | 2023-08-02 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-08-02 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
+| 2023-08-02 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
