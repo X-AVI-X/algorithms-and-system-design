@@ -246,3 +246,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-02 | **Dynamic Programming** | Memoized prefix matching across string substrings. |
 | 2023-08-02 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
 | 2023-08-03 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
+| 2023-08-03 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
