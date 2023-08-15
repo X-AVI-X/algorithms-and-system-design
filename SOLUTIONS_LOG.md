@@ -249,3 +249,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-03 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
 | 2023-08-07 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-08-07 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
+| 2023-08-15 | **Dynamic Programming** | Tracked running minimum and maximum values across array elements. |
