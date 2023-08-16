@@ -254,3 +254,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-15 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-08-16 | **Tries** | Engineered prefix tree node mapping with character array indices. |
 | 2023-08-16 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
+| 2023-08-16 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
