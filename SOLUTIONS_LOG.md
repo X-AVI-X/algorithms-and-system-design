@@ -262,3 +262,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-21 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
 | 2023-08-23 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-08-23 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
+| 2023-08-23 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
