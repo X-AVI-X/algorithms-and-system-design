@@ -261,3 +261,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-21 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
 | 2023-08-21 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
 | 2023-08-23 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
+| 2023-08-23 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
