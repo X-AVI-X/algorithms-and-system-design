@@ -265,3 +265,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-23 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
 | 2023-08-24 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
 | 2023-08-24 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
+| 2023-08-25 | **Disjoint Set Union** | Nearly constant amortized time complexity with Ackermann inverse. |
