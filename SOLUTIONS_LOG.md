@@ -270,3 +270,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-25 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
 | 2023-08-27 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-08-29 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
+| 2023-08-30 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
