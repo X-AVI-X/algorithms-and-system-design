@@ -273,3 +273,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-30 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
 | 2023-08-30 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-08-31 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
+| 2023-08-31 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
