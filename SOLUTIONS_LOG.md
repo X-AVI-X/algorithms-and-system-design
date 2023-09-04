@@ -275,3 +275,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-08-31 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-08-31 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-09-01 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
+| 2023-09-04 | **Caching** | Pre-populated frequently accessed catalog records into Redis during bootstrap. |
