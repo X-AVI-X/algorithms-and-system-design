@@ -280,3 +280,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-05 | **Dynamic Programming** | Tabulation approach calculating minimum coin combinations. |
 | 2023-09-05 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-09-06 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
+| 2023-09-06 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
