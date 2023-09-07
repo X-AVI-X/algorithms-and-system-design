@@ -282,3 +282,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-06 | **System Design** | Contrasted Kafka streaming logs with RabbitMQ work queues. |
 | 2023-09-06 | **Distributed Systems** | Analyzed Cache-Aside vs Write-Through and TTL expiration policies. |
 | 2023-09-07 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
+| 2023-09-07 | **Binary Trees** | Converted tree structure into comma-delimited string with null markers. |
