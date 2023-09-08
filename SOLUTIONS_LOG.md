@@ -286,3 +286,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-07 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
 | 2023-09-08 | **Graph Algorithms** | Iterative dynamic programming over intermediate vertices. |
 | 2023-09-08 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
+| 2023-09-08 | **Dynamic Programming** | Tabulation approach calculating minimum coin combinations. |
