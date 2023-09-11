@@ -289,3 +289,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-08 | **Dynamic Programming** | Tabulation approach calculating minimum coin combinations. |
 | 2023-09-09 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
 | 2023-09-11 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
+| 2023-09-11 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
