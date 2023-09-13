@@ -291,3 +291,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-11 | **Messaging & Streaming** | Configured at-least-once processing with manual synchronous offset commits. |
 | 2023-09-11 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
 | 2023-09-11 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
+| 2023-09-13 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
