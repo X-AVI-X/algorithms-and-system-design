@@ -295,3 +295,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-13 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
 | 2023-09-15 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
 | 2023-09-15 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
+| 2023-09-15 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
