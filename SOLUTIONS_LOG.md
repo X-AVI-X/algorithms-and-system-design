@@ -298,3 +298,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-15 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
 | 2023-09-16 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
 | 2023-09-18 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
+| 2023-09-19 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
