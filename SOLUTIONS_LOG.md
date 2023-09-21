@@ -304,3 +304,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-20 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-09-20 | **Trees & Graphs** | Utilized Queue interface for iterative level-by-level collection. |
 | 2023-09-21 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
+| 2023-09-21 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
