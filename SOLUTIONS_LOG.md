@@ -307,3 +307,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-21 | **Two Pointers** | Calculated water trapped between left and right maximum boundaries. |
 | 2023-09-23 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
 | 2023-09-25 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-09-26 | **Graph Algorithms** | Iterative dynamic programming over intermediate vertices. |
