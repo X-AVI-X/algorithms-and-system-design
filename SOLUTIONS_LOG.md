@@ -309,3 +309,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-25 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
 | 2023-09-26 | **Graph Algorithms** | Iterative dynamic programming over intermediate vertices. |
 | 2023-09-27 | **Database Design** | Balanced 3NF write integrity against denormalized read-heavy analytical dashboards. |
+| 2023-09-28 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
