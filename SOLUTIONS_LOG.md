@@ -311,3 +311,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-09-27 | **Database Design** | Balanced 3NF write integrity against denormalized read-heavy analytical dashboards. |
 | 2023-09-28 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
 | 2023-09-28 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
+| 2023-09-29 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
