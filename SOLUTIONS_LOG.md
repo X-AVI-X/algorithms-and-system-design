@@ -316,3 +316,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-03 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
 | 2023-10-03 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
 | 2023-10-03 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
+| 2023-10-06 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
