@@ -317,3 +317,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-03 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
 | 2023-10-03 | **Cloud Architecture** | Compared Eureka discovery heartbeat model with Spring Cloud Gateway routing. |
 | 2023-10-06 | **Graphs** | Tracked visiting states: unvisited, visiting, and fully explored. |
+| 2023-10-08 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
