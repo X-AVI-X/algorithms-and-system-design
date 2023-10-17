@@ -323,3 +323,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-16 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-10-16 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-10-16 | **Trees** | Tree structure enabling O(log N) updates and range aggregations. |
+| 2023-10-17 | **Clean Architecture** | Eliminated boilerplate model converters using zero-runtime-overhead MapStruct. |
