@@ -326,3 +326,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-17 | **Clean Architecture** | Eliminated boilerplate model converters using zero-runtime-overhead MapStruct. |
 | 2023-10-17 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
 | 2023-10-19 | **API Architecture** | Implemented token replenishment rate vs memory efficiency analysis. |
+| 2023-10-20 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
