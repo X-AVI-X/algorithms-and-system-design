@@ -333,3 +333,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-25 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
 | 2023-10-25 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-10-26 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
+| 2023-10-26 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
