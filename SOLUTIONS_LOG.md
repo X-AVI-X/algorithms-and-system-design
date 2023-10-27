@@ -335,3 +335,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-26 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
 | 2023-10-26 | **Data Structures** | Achieved O(1) get and put operations via node pointer rewiring. |
 | 2023-10-27 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
+| 2023-10-27 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
