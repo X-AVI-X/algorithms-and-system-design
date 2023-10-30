@@ -338,3 +338,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-10-27 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-10-30 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
 | 2023-10-30 | **Database Optimization** | Interpreted Seq Scan vs Index Scan and buffer hit ratios. |
+| 2023-10-30 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
