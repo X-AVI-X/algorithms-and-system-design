@@ -345,3 +345,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-04 | **Sorting** | Added Dutch National Flag partitioning for quicksort stability. |
 | 2023-11-07 | **Binary Search** | Determined sorted half to guide logarithmic division. |
 | 2023-11-07 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
+| 2023-11-07 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
