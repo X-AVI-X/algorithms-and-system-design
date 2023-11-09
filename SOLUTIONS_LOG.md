@@ -348,3 +348,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-07 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
 | 2023-11-09 | **SQL & Database Tuning** | Analyzed leftmost prefix rule and index cardinality benefits. |
 | 2023-11-09 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
+| 2023-11-09 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
