@@ -352,3 +352,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-10 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
 | 2023-11-10 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
 | 2023-11-10 | **Trees** | Recursive branch traversal finding meeting ancestor nodes. |
+| 2023-11-12 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
