@@ -353,3 +353,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-10 | **Graphs** | Traversed 2D grid mutating visited terrain cells. |
 | 2023-11-10 | **Trees** | Recursive branch traversal finding meeting ancestor nodes. |
 | 2023-11-12 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
+| 2023-11-13 | **String Algorithms** | Computed longest proper prefix which is also suffix table. |
