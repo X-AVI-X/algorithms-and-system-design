@@ -359,3 +359,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-14 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
 | 2023-11-15 | **Dynamic Programming** | Tabulation approach calculating minimum coin combinations. |
 | 2023-11-15 | **Two Pointers** | Handled duplicate elements to eliminate redundant triplet evaluations. |
+| 2023-11-16 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
