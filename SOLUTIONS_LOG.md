@@ -362,3 +362,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-16 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-11-17 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-11-17 | **Two Pointers** | Optimized space to O(1) using opposite ends two-pointer scan. |
+| 2023-11-19 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
