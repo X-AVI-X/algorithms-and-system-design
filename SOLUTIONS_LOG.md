@@ -365,3 +365,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-19 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
 | 2023-11-20 | **Dynamic Programming** | Built 2D weight-value table with space-optimized 1D array. |
 | 2023-11-20 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
+| 2023-11-21 | **Concurrency** | Offloaded notification dispatch to dedicated thread pool with caller-runs rejection. |
