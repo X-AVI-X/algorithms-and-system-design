@@ -368,3 +368,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-21 | **Concurrency** | Offloaded notification dispatch to dedicated thread pool with caller-runs rejection. |
 | 2023-11-21 | **Stacks** | Processed indices with decreasing stack order for O(n) queries. |
 | 2023-11-22 | **DevOps & Database** | Implemented idempotent declarative migrations for CD deployment pipelines. |
+| 2023-11-23 | **Integration Testing** | Spun up ephemeral Docker containers during Maven verify phase for true parity. |
