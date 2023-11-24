@@ -372,3 +372,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-23 | **Sliding Window** | Replaced List lookups with HashSet for O(1) membership checks. |
 | 2023-11-23 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-11-24 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
+| 2023-11-24 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
