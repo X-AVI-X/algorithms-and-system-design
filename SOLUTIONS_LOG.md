@@ -374,3 +374,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-24 | **Performance Engineering** | Applied HikariCP formula: connections = ((core_count * 2) + effective_spindle_count). |
 | 2023-11-24 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
 | 2023-11-27 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
+| 2023-11-27 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
