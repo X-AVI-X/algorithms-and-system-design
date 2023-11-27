@@ -375,3 +375,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-24 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
 | 2023-11-27 | **Security Architecture** | Detailed OncePerRequestFilter execution and SecurityContext population. |
 | 2023-11-27 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
+| 2023-11-27 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
