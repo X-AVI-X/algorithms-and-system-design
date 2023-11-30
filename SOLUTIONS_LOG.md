@@ -377,3 +377,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-27 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
 | 2023-11-27 | **API Gateway** | Validated Bearer tokens and injected authenticated user identity headers downstream. |
 | 2023-11-29 | **Database Performance** | Grouped 500 records per round-trip to minimize database network overhead. |
+| 2023-11-30 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
