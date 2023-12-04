@@ -380,3 +380,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-11-30 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
 | 2023-12-01 | **Testing** | Verified query methods and custom JPQL projection mapping against H2 database. |
 | 2023-12-01 | **Backtracking** | Pruned search branch when candidate element exceeds remaining target. |
+| 2023-12-04 | **Database Design** | Balanced 3NF write integrity against denormalized read-heavy analytical dashboards. |
