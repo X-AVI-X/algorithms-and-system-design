@@ -388,3 +388,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-07 | **Dynamic Programming** | Single pass O(n) runtime with local and global maximum tracking. |
 | 2023-12-08 | **Resilience Engineering** | Configured Closed, Open, and Half-Open states with sliding window call metrics. |
 | 2023-12-08 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
+| 2023-12-08 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
