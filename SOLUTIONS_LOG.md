@@ -390,3 +390,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-08 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-12-08 | **Heaps** | Reduced time complexity from O(N log N) to O(N log K). |
 | 2023-12-11 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
+| 2023-12-11 | **Observability** | Propagated traceparent and tracestate headers across HTTP service boundaries. |
