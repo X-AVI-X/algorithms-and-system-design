@@ -394,3 +394,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-12 | **Spring Boot** | Standardized machine-readable error responses with status, title, and detail. |
 | 2023-12-12 | **Tries** | Engineered prefix tree node mapping with character array indices. |
 | 2023-12-12 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
+| 2023-12-13 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
