@@ -396,3 +396,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-12 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-12-13 | **Concurrency & DB** | Compared JPA @Version timestamp/counter with SELECT FOR UPDATE row locks. |
 | 2023-12-13 | **Graphs** | Calculated in-degree metrics to resolve acyclic execution orders. |
+| 2023-12-13 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
