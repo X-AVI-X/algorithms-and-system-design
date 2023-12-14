@@ -399,3 +399,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-13 | **Distributed Systems** | Choreography vs Orchestration based saga with compensating transactions. |
 | 2023-12-14 | **Graphs** | Modeled prerequisite constraints as directed dependency graph. |
 | 2023-12-14 | **API Architecture** | Implemented token replenishment rate vs memory efficiency analysis. |
+| 2023-12-14 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
