@@ -401,3 +401,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-14 | **API Architecture** | Implemented token replenishment rate vs memory efficiency analysis. |
 | 2023-12-14 | **Linked Lists** | Floyd's Tortoise and Hare algorithm for cycle detection. |
 | 2023-12-15 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
+| 2023-12-15 | **Design Patterns** | Abstracted gateway initiation and webhook callbacks into pluggable handlers. |
