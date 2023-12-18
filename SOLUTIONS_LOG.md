@@ -405,3 +405,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-16 | **Clean Architecture** | Eliminated boilerplate model converters using zero-runtime-overhead MapStruct. |
 | 2023-12-17 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-12-18 | **System Design** | Evaluated partition tolerance in AP vs CP distributed systems. |
+| 2023-12-18 | **Stacks** | Matched open and closing bracket pairings with constant space lookup. |
