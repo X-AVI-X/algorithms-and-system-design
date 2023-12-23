@@ -414,3 +414,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-22 | **API & Caching** | Explored Redis SETNX with lease timeouts for concurrent task safety. |
 | 2023-12-22 | **Clean Architecture** | Eliminated boilerplate model converters using zero-runtime-overhead MapStruct. |
 | 2023-12-22 | **ORM & JPA** | Avoided eager-fetch explosions using EntityGraph and JOIN FETCH queries. |
+| 2023-12-23 | **Graphs** | Modeled prerequisite constraints as directed dependency graph. |
