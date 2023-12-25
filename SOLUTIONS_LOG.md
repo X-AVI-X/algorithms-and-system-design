@@ -417,3 +417,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-23 | **Graphs** | Modeled prerequisite constraints as directed dependency graph. |
 | 2023-12-25 | **Binary Search** | Determined sorted half to guide logarithmic division. |
 | 2023-12-25 | **Divide & Conquer** | Logarithmic partition dividing combined arrays into equal halves. |
+| 2023-12-25 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
