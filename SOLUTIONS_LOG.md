@@ -420,3 +420,4 @@ A structured technical log documenting data structures, algorithms problem solvi
 | 2023-12-25 | **Database Internals** | Compared read latency vs write amplification in modern databases. |
 | 2023-12-27 | **Graph Algorithms** | Employed PriorityQueue with distance array for minimum edge costs. |
 | 2023-12-27 | **Binary Search** | Determined sorted half to guide logarithmic division. |
+| 2023-12-27 | **Intervals** | Iteratively merged overlapping boundary ranges in linear time. |
